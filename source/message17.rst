@@ -1,5 +1,5 @@
-#17. ???
-========
+#17. Defining Function
+======================
 
 .. include:: note-discord.rst
 
